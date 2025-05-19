@@ -1,0 +1,48 @@
+body{
+    font-size: 18px;
+}
+.pic{
+    width: 100%;
+}
+.picture{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 38px;
+    border: 10px solid white;
+}
+.my-prfile{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border-radius: 20%;
+}
+.my-information{
+    background-color: aliceblue;
+    height: 100%;
+    width: 30%;
+    padding: 10px;
+    color: rgb(7, 7, 63);
+    display: flex;
+    flex-direction: column;
+    line-height: 27.5px;
+}
+.cathalog{
+    background-color: rgb(251, 253, 252);
+    height: 100%;
+    width: 70%;
+    padding: 20px;
+    padding-right: 40px;
+}
+.p1{
+    font-size: 50px;
+    margin: 10px;
+}
+nav{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
