@@ -1,0 +1,13 @@
+body{
+    font-size: 16px;
+}
+div{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+.art-africain{
+    display: grid;
+    grid-template-columns: repeat(3,200px);
+    gap: 10px;
+}
